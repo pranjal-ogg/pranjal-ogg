@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Pranjal Tripathi
 
-🚀 B.Tech CSE (AI & ML) Student 
+🚀 B.Tech CSE (AI & ML) Student                                   
 💡 Building AI-powered products & real-world applications  
 ⚡ Interested in Full Stack, Machine Learning & Product Thinking  
 
