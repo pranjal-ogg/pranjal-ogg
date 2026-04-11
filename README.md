@@ -59,6 +59,6 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn:(www.linkedin.com/in/pranjal-tripathi-3a55b127b)
+- [💼 LinkedIn](www.linkedin.com/in/pranjal-tripathi-3a55b127b)
 
 ---
